@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Extracted Text (Large)
+*.txt
+*.pdf
+*.epub
+*.zip
+
+# System
+.DS_Store
+Thumbs.db
+
+# Keep the notes!
+!notes/
