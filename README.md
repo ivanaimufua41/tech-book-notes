@@ -9,6 +9,8 @@ All summaries are located in the `notes/` directory.
 - **[Building Micro-frontends](notes/Building_Microfrontends_Synopsis.md)** by Luca Mezzalira
 - **[Micro State Management with React Hooks](notes/Micro_State_Management_Synopsis.md)** by Daishi Kato
 - **[Constructing the User Interface with Statecharts](notes/Constructing_UI_Statecharts_Synopsis.md)** by Matschin
+- **[Designing Data-Intensive Applications](notes/Designing_Data_Intensive_Applications_Synopsis.md)** by Martin Kleppmann
+- **[Hands-On RESTful API Design](notes/Hands_On_RESTful_API_Synopsis.md)** by Harihara Subramanian
 
 ## 🛠 Usage
 
